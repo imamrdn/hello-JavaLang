@@ -30,7 +30,9 @@ public class OperatorEquality {
         System.out.println("Hasil value < anotherValue adalah "+ result);
         System.out.println();
 
-        
-
+        System.out.println("Kurang dari atau sama dengan .. ");
+        result = value <= anotherValue;
+        System.out.println("Hasil value <= anotherValue adalah " + result);
+        System.out.println();
     }
 }
