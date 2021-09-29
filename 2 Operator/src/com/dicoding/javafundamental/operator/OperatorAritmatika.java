@@ -16,5 +16,12 @@ public class OperatorAritmatika {
         int hasilPembagian = 20/2;
         System.out.println("Hasil dari 20 / 4 adalah "+ hasilPembagian);
         System.out.println();
+
+        System.out.println("Operator Habis  bagi");
+        int hasilSisa = 8 % 2;
+        System.out.println("Hasil 8 % 2 adalah "+ hasilSisa);
+        int hasilSisaLain = 9 % 2;
+        System.out.println("Hasil 9 % 2 adalah " + hasilSisaLain);
+        System.out.println();
     }
 }
