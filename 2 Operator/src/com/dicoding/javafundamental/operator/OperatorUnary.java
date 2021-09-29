@@ -25,7 +25,10 @@ public class OperatorUnary {
         System.out.println("Hasil 3-- = " + nilaiAwal4);
         System.out.println();
 
-        
+        System.out.println("Operator komplemen logika");
+        boolean sukses = !false; // Nilai sukses adalah false
+        System.out.println("Hasil dari !false "+ sukses);
+        System.out.println();
 
     }
 }
