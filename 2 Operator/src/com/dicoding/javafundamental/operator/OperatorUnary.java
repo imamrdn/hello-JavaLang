@@ -13,5 +13,19 @@ public class OperatorUnary {
         nilaiAwal2 = -nilaiAwal2;
         System.out.println("Hasil -5 = " +nilaiAwal2);
         System.out.println();
+
+        System.out.println("Operator peningkatan nilai 1 point");
+        int nilaiAwal3 = 5;
+        nilaiAwal3++;
+        System.out.println("Hasil 5++ = " + nilaiAwal3);
+        System.out.println();
+
+        System.out.println("Operator pengurangan nilai 1 point");
+        int nilaiAwal4 = 3;
+        System.out.println("Hasil 3-- = " + nilaiAwal4);
+        System.out.println();
+
+        
+
     }
 }
