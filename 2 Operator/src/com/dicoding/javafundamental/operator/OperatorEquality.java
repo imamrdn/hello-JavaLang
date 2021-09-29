@@ -14,5 +14,10 @@ public class OperatorEquality {
         result = value != anotherValue;
         System.out.println("Hasil value != anotherValue adalah "+ result);
         System.out.println();
+
+        System.out.println("Lebih besar dari .. ");
+        result = value > anotherValue;
+        System.out.println("Hasil value > anotherValue adalah "+ result);
+        System.out.println();
     }
 }
